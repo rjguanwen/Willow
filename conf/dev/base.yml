@@ -1,0 +1,8 @@
+version: 0.1
+
+server:
+  port: 8080
+
+dataFilePath:
+  memberTagsFile: data/tags-json-sample.txt
+
